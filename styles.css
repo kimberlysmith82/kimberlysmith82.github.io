@@ -4,11 +4,11 @@
  }
 
  .bg-1 {
-   background-color: #1abc9c; /* Green */
+   background-color: #E3BAB3; /* Petal */
    color: #ffffff;
  }
  .bg-2 {
-   background-color: #474e5d; /* Dark Blue */
+   background-color: #849974; /* Fresh */
    color: #ffffff;
  }
  .bg-3 {
@@ -45,9 +45,9 @@
  p {font-size: 16px;}
 
  .btn {
-  display: inline-block; /*default for links and buttons is inline but we want inline block */
+  display: inline-block;
   padding: 10px 30px;
-  cursor: pointer; /* changes the curser to a clicky finger on hover -- for ALL links and buttons */
+  cursor: pointer; 
   background: white;
   color:  rgb(63, 62, 62);
   font-family: 'Montserrat';
