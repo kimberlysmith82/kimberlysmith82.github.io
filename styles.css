@@ -1,6 +1,6 @@
 body {
     padding: 1em;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Bebas Neue', monospace;
 }
 
 .wrapper-index {
@@ -109,7 +109,7 @@ body {
 }
 
 #about {
-    background: lightgray;
+    background: #E3BAB3;
     padding: 1em;
     grid-area: about;
 }
